@@ -1,0 +1,22 @@
+/* components/song-menu/index.wxss */
+.menu-list{
+    /* 视口的宽度 */
+    width: 100vw;
+    /* 让两行变成一行 */
+    white-space: nowrap;
+    position: relative;
+    left: -20rpx;
+}
+.menu-item{
+    /* 变成行内元素 */
+    display: inline-block;
+    /* 顶部对齐 */
+    vertical-align: top;
+    width: 220rpx;
+  
+    margin-left: 20rpx;
+}
+/* 设置最后一个元素的内边距 */
+.menu-item:last-of-type{
+    margin-right: 20rpx;
+}
