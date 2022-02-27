@@ -23,7 +23,7 @@
         "scopeDataCheck": false,
         "uglifyFileName": false,
         "checkInvalidKey": true,
-        "checkSiteMap": true,
+        "checkSiteMap": false,
         "uploadWithSourceMap": true,
         "compileHotReLoad": true,
         "lazyloadPlaceholderEnable": false,
@@ -49,7 +49,7 @@
     "compileType": "miniprogram",
     "libVersion": "2.19.4",
     "appid": "wx0651ea1f0638e755",
-    "projectname": "%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F",
+    "projectname": "TqMusic",
     "debugOptions": {
         "hidedInDevtools": []
     },

@@ -1,0 +1,27 @@
+/* components/video-item-v1/index.wxss */
+.item {
+    width: 100%;
+    margin-bottom: 30rpx;
+  }
+  
+  .image{
+      width: 100%;
+      height: 100%;
+  }
+  
+  .album{
+      position: relative;
+  }
+  
+  .count{
+      position: absolute;
+      margin-top: -50rpx;
+      left: 10rpx;
+      color: aliceblue;
+  }
+  .duration{
+      position: absolute;
+      margin-top: -50rpx;
+      right: 10rpx;
+      color: aliceblue;
+  }
